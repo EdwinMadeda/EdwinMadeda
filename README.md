@@ -4,7 +4,7 @@
 |:heart: Learning | :yellow_heart: Gaming| :blue_heart: Programming|
 |:---:|:---:|:---:|
 
-Student at Laikipia University Bsc. Computer Science 
+Student at Laikipia University Bsc. Information Communication Technology (ICT) 
 
 - 🔭 I’m currently learning Android
 - 🌱 I’m currently focusing on Programming
